@@ -1,1 +1,2 @@
-# 34522246
+# hi, i'm sh
+-studying C, Python, and cybersecurity
